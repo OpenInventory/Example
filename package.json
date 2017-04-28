@@ -1,0 +1,31 @@
+{
+  "name": "Example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hooked-web3-provider": "^1.0.0",
+    "next": "^2.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "web3": "^0.18.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-plugin-transform-define": "^1.2.0",
+    "babel-plugin-transform-export-extensions": "^6.22.0",
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "prettier": "^1.2.2"
+  }
+}
